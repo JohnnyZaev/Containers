@@ -116,5 +116,5 @@ int main(int argc, char** argv) {
 		std::cout << *it;
 	}
 	std::cout << std::endl;
-	return (0);
+	return EXIT_SUCCESS;
 }
