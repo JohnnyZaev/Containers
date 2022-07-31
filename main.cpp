@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 		std::cerr << "Usage: ./test seed" << std::endl;
 		std::cerr << "Provide a seed please" << std::endl;
 		std::cerr << "Count value:" << COUNT << std::endl;
-		return 1;
+		return EXIT_FAILURE;
 	}
 	const int seed = atoi(argv[1]);
 	srand(seed);
