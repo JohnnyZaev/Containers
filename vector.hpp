@@ -5,4 +5,6 @@
 #ifndef CONTAINERS_VECTOR_HPP
 #define CONTAINERS_VECTOR_HPP
 
+#include <iostream>
+
 #endif //CONTAINERS_VECTOR_HPP
