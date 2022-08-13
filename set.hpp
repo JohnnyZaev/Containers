@@ -5,4 +5,9 @@
 #ifndef CONTAINERS_SET_HPP
 #define CONTAINERS_SET_HPP
 
+# include <memory>
+# include <cstddef>
+# include <iostream>
+# include <stdexcept>
+
 #endif //CONTAINERS_SET_HPP
